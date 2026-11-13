@@ -1,0 +1,2 @@
+﻿テスト名,テストID,実行ID,結果,実行日時,環境,コミット,所要時間(ms),失敗ログ,フレームワーク
+HelloNotion,hello::hello_notion,20261112-1000-a1b2c3d,PASS,2026-11-12 10:00,local-win11,a1b2c3d,12,,pytest
